@@ -7,10 +7,10 @@ Customer CRUD module source code and screenshots.
 - CustomerController.php
 - Customer.php
 - web.php
-- migrations
-- factories
-- seeder
-- view
+- migration
+- factory
+- seeders
+- views
 
 ## Author
 Name: Horng Kimsomnang  
